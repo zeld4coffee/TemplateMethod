@@ -8,7 +8,7 @@ public abstract class AbstractClass {
         dormir();
     }
 
-    // ref métodos implementados na subclasse
+    // ref métodos implementados na ConcreteClass
     public abstract void comer();
     public abstract void escovarDentes();
     public abstract void tomarBanho();
