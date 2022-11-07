@@ -8,7 +8,7 @@ public abstract class AbstractClass {
         dormir();
     }
 
-    // o método template usa os métodos abstratos
+    // ref métodos implementados na subclasse
     public abstract void comer();
     public abstract void escovarDentes();
     public abstract void tomarBanho();
